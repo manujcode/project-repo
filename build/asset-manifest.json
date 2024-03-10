@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b031c10.css",
+<<<<<<< HEAD
+    "main.js": "/static/js/main.7c4ad8b7.js",
+    "static/js/453.48d7f081.chunk.js": "/static/js/453.48d7f081.chunk.js",
+    "index.html": "/index.html",
+    "main.9b031c10.css.map": "/static/css/main.9b031c10.css.map",
+    "main.7c4ad8b7.js.map": "/static/js/main.7c4ad8b7.js.map",
+=======
+    "main.js": "/static/js/main.381555ea.js",
+    "static/js/453.48d7f081.chunk.js": "/static/js/453.48d7f081.chunk.js",
+    "index.html": "/index.html",
+    "main.9b031c10.css.map": "/static/css/main.9b031c10.css.map",
+    "main.381555ea.js.map": "/static/js/main.381555ea.js.map",
+>>>>>>> bf149af (fiNAL COMMIT)
+    "453.48d7f081.chunk.js.map": "/static/js/453.48d7f081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b031c10.css",
+<<<<<<< HEAD
+    "static/js/main.7c4ad8b7.js"
+=======
+    "static/js/main.381555ea.js"
+>>>>>>> bf149af (fiNAL COMMIT)
+  ]
+}
